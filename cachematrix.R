@@ -28,7 +28,8 @@ makeCacheMatrix <- function(x = matrix()) {
        setinverse = setinverse, 
        
        getinverse = getinverse)
-  
+  #has something to do with making sure these functions can be seen
+  # in the global environment
 }
 
 
